@@ -2,9 +2,9 @@ defaults:
   - _self_
   - task: p3po
 
-root_dir: /path/to/root/directory
+root_dir: /scr/hyeonhoo/code/P3PO
 
-task_name: ""
+task_name: real_robot
 device: "cuda"
 
 width: -1
